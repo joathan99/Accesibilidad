@@ -8,49 +8,11 @@
 
 ---
 
-## Ejemplo 1: Formulario de Contacto (Codigo con errores)
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario de Contacto</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+## 📝 Código con Problemas de Accesibilidad
 
-    <div class="header"> <!-- Falta de semántica -->
-        <h3>Bienvenido</h3> <!-- No debería ser un h3 sin un h1 antes -->
-    </div>
-
-    <nav> <!-- Mala visibilidad de enlaces -->
-        <a href="#">Inicio</a>
-        <a href="#">Nosotros</a>
-        <a href="#">Contacto</a>
-    </nav>
-
-    <div class="content">
-        <h2>Formulario de Contacto</h2>
-
-        <form>
-            <div>
-                <input type="text" placeholder="Nombre"> <!-- No tiene label asociada -->
-            </div>
-            <div>
-                <input type="email" placeholder="Correo"> <!-- No tiene label asociada -->
-            </div>
-            <div>
-                <textarea placeholder="Mensaje"></textarea> <!-- No tiene label asociada -->
-            </div>
-            <button>Enviar</button> <!-- Falta descripción clara -->
-        </form>
-    </div>
-
-    <footer>
-        <p>© 2025 Todos los derechos reservados</p> <!-- Texto de bajo contraste -->
-    </footer>
-
-</body>
-</html>
-```
+| Formulario de Contacto | Lista de Productos |
+|----------------------|------------------|
+| ```html<br>&lt;input type="text" placeholder="Nombre"&gt;``` | ```html<br>&lt;button&gt;Comprar&lt;/button&gt;``` |
+| ```html<br>&lt;div class="header"&gt;&lt;h3&gt;Bienvenido&lt;/h3&gt;&lt;/div&gt;``` | ```html<br>&lt;h2&gt;Nuestros Productos&lt;/h2&gt;``` |
+| ```html<br>&lt;form&gt;&lt;input type="email" placeholder="Correo"&gt;&lt;/form&gt;``` | ```html<br>&lt;table&gt;&lt;tr&gt;&lt;td&gt;Producto&lt;/td&gt;&lt;td&gt;Precio&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;``` |
+| ```html<br>&lt;button&gt;Enviar&lt;/button&gt;``` | ```html<br>&lt;footer&gt;&lt;p&gt;Derechos Reservados &copy; 2025&lt;/p&gt;&lt;/footer&gt;``` |
