@@ -4,7 +4,7 @@
 ## 📷 Capturas de Pantalla mala accesibilidad
 | Ejemplo 1 | Ejemplo 2 |
 |----------------------|------------------|
-| ![Formulario de contacto](./ejemplo1MAL/ejemplop1.png) | ![Lista de productos](./ejemplo2MAL/ejemplo2.png) |
+| ![Formulario de contacto](./ejemplo1MAL/ejemplo1.png) | ![Lista de productos](./ejemplo2MAL/ejemplo2.png) |
 
 ---
 
