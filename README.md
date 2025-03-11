@@ -414,18 +414,12 @@ Revisa y corrige este código HTML y CSS para garantizar que cumpla con los est�
 
 Además:
 
-Agrega atributos ARIA (aria-label, aria-describedby, role) donde sea necesario.
-
-Mejora la semántica con etiquetas HTML5 (<header>, <main>, <section>, etc.).
-
-Asegúrate de que las imágenes tengan alt descriptivo o alt="" si son decorativas.
-
-Verifica la jerarquía de encabezados (<h1>, <h2>, etc.).
-
-Haz que elementos interactivos (enlaces, botones, formularios) sean accesibles por teclado y tengan foco visible.
-
-En formularios, asocia etiquetas (<label>) y marca campos obligatorios con aria-required o required.
-
-Asegúrate de que el CSS no dependa solo del color para transmitir información.
+- Agrega atributos ARIA (aria-label, aria-describedby, role) donde sea necesario.
+- Mejora la semántica con etiquetas HTML5 (<header>, <main>, <section>, etc.).
+- Asegúrate de que las imágenes tengan alt descriptivo o alt="" si son decorativas.
+- Verifica la jerarquía de encabezados (<h1>, <h2>, etc.).
+- Haz que elementos interactivos (enlaces, botones, formularios) sean accesibles por teclado y tengan foco visible.
+- En formularios, asocia etiquetas (<label>) y marca campos obligatorios con aria-required o required.
+- Asegúrate de que el CSS no dependa solo del color para transmitir información.
 
 Aplica estos cambios y devuelve el código HTML y CSS corregido.
