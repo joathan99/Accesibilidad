@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f8f8;
+    color: #333; /* Mejor contraste */
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #efefef;
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    width: 70%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #333; /* Mejor contraste */
+}
+
+button {
+    background-color: #0056b3; /* Color distintivo */
+    color: #ffffff; /* Mejor contraste */
+    border: 1px solid #003f7f;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: 2px solid #003f7f; /* Foco visible */
+}
+
+footer {
+    background-color: #222;
+    color: #ffffff; /* Mejor contraste */
+    text-align: center;
+    padding: 10px;
+}

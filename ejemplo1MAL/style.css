@@ -1,0 +1,54 @@
+body {
+    background-color: #dcdcdc;
+    color: #707070; /* Bajo contraste con el fondo */
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #ccc; /* Bajo contraste */
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #a0a0a0; /* Bajo contraste con el fondo */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.content {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc; /* Bajo contraste */
+}
+
+button {
+    background-color: #e0e0e0; /* Bajo contraste */
+    color: #ffffff; /* Texto poco legible */
+    border: none;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: #bbbbbb; /* Sigue teniendo poco contraste */
+}
+
+footer {
+    background-color: #333;
+    color: #444; /* Texto de bajo contraste */
+    text-align: center;
+    padding: 10px;
+}

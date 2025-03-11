@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Contacto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido</h1>
+    </header>
+
+    <nav>
+        <a href="#" aria-label="Inicio">Inicio</a>
+        <a href="#" aria-label="Nosotros">Nosotros</a>
+        <a href="#" aria-label="Contacto">Contacto</a>
+    </nav>
+
+    <main class="content">
+        <h2>Formulario de Contacto</h2>
+
+        <form>
+            <div>
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" placeholder="Nombre" aria-required="true" required>
+            </div>
+            <div>
+                <label for="correo">Correo</label>
+                <input type="email" id="correo" placeholder="Correo" aria-required="true" required>
+            </div>
+            <div>
+                <label for="mensaje">Mensaje</label>
+                <textarea id="mensaje" placeholder="Mensaje" aria-required="true" required></textarea>
+            </div>
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>© 2025 Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
