@@ -407,6 +407,11 @@ footer {
 }
 ```
 ---
+## Herramientas
+Se ha usado las siguientes herramientas para validar la accesibilidad:
+- WAVE Evaluation Tool (extension de chrome): https://chromewebstore.google.com/detail/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=item-share-cb
+- axe DevTools - Web Accessibility Testing (extension de chrome): https://chromewebstore.google.com/detail/lhdoppojpmngadmnindnejefpokejbdd?utm_source=item-share-cb
+---
 
 ## Promp perfecto
 
