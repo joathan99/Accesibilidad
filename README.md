@@ -6,6 +6,8 @@
 |----------------------|------------------|
 | ![Formulario de contacto](./ejemplo1MAL/ejemplo1.png) | ![Lista de productos](./ejemplo2MAL/ejemplo2.png) |
 
+Principales errores: semantica, mala visibilidad de enlaces, falta de labels, texto de bajo contraste, mal la tabla, usad td en vez de th.
+
 ---
 
 ## Ejemplo 1: Formulario de Contacto (Codigo con errores)
@@ -443,6 +445,8 @@ Aplica estos cambios y devuelve el código HTML y CSS corregido.
 | Example 1 | Example 2 |
 |----------------------|------------------|
 | ![Contact Form](./ejemplo1MAL/ejemplo1.png) | ![List of products](./ejemplo2MAL/ejemplo2.png) |
+
+Main errors: semantics, bad link visibility, lack of labels, low contrast text, bad table, use td instead of th.
 
 ---
 
