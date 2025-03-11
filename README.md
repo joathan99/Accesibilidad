@@ -6,7 +6,7 @@
 |----------------------|------------------|
 | ![Formulario de contacto](./ejemplo1MAL/ejemplo1.png) | ![Lista de productos](./ejemplo2MAL/ejemplo2.png) |
 
-Principales errores: semantica, mala visibilidad de enlaces, falta de labels, texto de bajo contraste, mal la tabla, usad td en vez de th.
+Principales errores: semantica, mala visibilidad de enlaces, falta de labels, texto de bajo contraste, mal la tabla, usar td en vez de th.
 
 ---
 
