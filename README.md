@@ -411,6 +411,12 @@ footer {
 Se ha usado las siguientes herramientas para validar la accesibilidad:
 - WAVE Evaluation Tool (extension de chrome): https://chromewebstore.google.com/detail/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=item-share-cb
 - axe DevTools - Web Accessibility Testing (extension de chrome): https://chromewebstore.google.com/detail/lhdoppojpmngadmnindnejefpokejbdd?utm_source=item-share-cb
+
+Las IA que se han usado:
+- ChatGPT: para la generacion de ejemplos con mala accesibilidad.
+- DeepSeek: para ayudarme a mejorar mi promp.
+- Copilot: para la implementacion de el promp.
+
 ---
 
 ## Promp perfecto
@@ -843,6 +849,12 @@ footer {
 The following tools have been used to validate accessibility:
 - WAVE Evaluation Tool (chrome extension): https://chromewebstore.google.com/detail/jbbplnpkjmmeebjpijfedlgcdilocofh?utm_source=item-share-cb
 - axe DevTools - Web Accessibility Testing (chrome extension): https://chromewebstore.google.com/detail/lhdoppojpmngadmnindnejefpokejbdd?utm_source=item-share-cb
+
+The AIs that have been used:
+- ChatGPT: for generating examples with poor accessibility.
+- DeepSeek: to help me improve my promp.
+- Copilot: for promp implementation.
+
 ---
 
 ## Perfect Promp
