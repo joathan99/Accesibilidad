@@ -416,7 +416,6 @@ Se ha usado las siguientes herramientas para validar la accesibilidad:
 
 Las IA que se han usado:
 - ChatGPT: para la generacion de ejemplos con mala accesibilidad.
-- DeepSeek: para ayudarme a mejorar mi promp.
 - Copilot: para la implementacion de el promp.
 
 ---
@@ -856,7 +855,6 @@ The following tools have been used to validate accessibility:
 
 The AIs that have been used:
 - ChatGPT: for generating examples with poor accessibility.
-- DeepSeek: to help me improve my promp.
 - Copilot: for promp implementation.
 
 ---
